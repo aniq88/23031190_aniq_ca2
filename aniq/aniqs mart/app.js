@@ -21,8 +21,8 @@ const connection = mysql.createConnection({
     //password: '',
     //database: 'aniq_c237database',
     host:'mysql-aniq.alwaysdata.net.net',
-    user:'aniq_created_for_alwaysdata.net',
-    password:'Aniq2006_created_for_alwaysdata.net',
+    user:'aniq',
+    password:'Aniq2006',
     database:'aniq_c237database'
 });
 connection.connect((err) => {
